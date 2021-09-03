@@ -1,0 +1,59 @@
+
+
+body {
+    background: url(weather.jpg) no-repeat;
+    background: rgba(#07000073, #0000004b, #00000046, 0.6);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    font-family: sans-serif !important;
+    
+}
+#head{
+    background-color: #ffffff44;
+    padding: 3rem 0;
+}
+
+.detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+
+.city{
+    font-size: 5rem;
+    color: #000000;
+}
+
+.temp{
+    color: tomato;
+}
+
+
+.condition{
+    color: #000000;
+}
+
+
+.country{
+    font-size: 1.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
